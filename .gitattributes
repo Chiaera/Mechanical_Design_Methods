@@ -1,3 +1,0 @@
-*.prt.* filter=lfs diff=lfs merge=lfs -text
-*.asm.* filter=lfs diff=lfs merge=lfs -text
-*.drw.* filter=lfs diff=lfs merge=lfs -text
