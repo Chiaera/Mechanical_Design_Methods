@@ -1,34 +1,13 @@
-# Creo Parametric
+# Creo Parametric generated files
 *.crc
 *.inf
 *.idx
 *.log
 *.lck
 *.tst
-*.m_p
-*.m_s
-*.m_x
-*.m_f
-*.m_c
-*.m_b
-*.m_o
-*.m_d
-*.m_e
-*.m_g
-*.m_h
-*.m_i
-*.m_j
-*.m_k
-*.m_l
-*.m_n
-*.m_q
-*.m_r
-*.m_t
-*.m_u
-*.m_v
-*.m_w
-*.m_y
-*.m_z
+
+# Creo versioned files (handled by LFS, not ignored)
+# NON ignoriamo *.prt.* e *.asm.* perché li gestisce LFS
 
 # Backup files
 *.bak
