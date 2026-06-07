@@ -53,6 +53,9 @@ One finger is connected to one of the motor sliders and performs a linear moveme
 
 The design is based on the angular distribution of the component petals. Since the petals are considered equidistant, the gripper uses a 120° configuration to reach the safe contact areas between them.
 
+<div align="center">
+  <img src="imgReadme/finalDesign.jpeg" width="40%">
+</div>
 
 
 ## Fingers Design
