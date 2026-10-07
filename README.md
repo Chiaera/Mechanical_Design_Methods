@@ -1,4 +1,5 @@
 # Three-Finger Adaptive Gripper for Front Upper Motor Mount
+> The `MDM_Stef` branch has the respective CAD files
 
 ## Project Overview
 The objective of the project is to design a robotic gripper able to pick up a **front upper motor mount**. The component has a central cylindrical body, a top threaded screw and three radial flanges, also referred to as “petals”.
@@ -95,7 +96,7 @@ The rubber parts can be replaced when worn out, without disassembling the whole 
 </div>
 
 ## Authors
-This project was developed as a collaborative group project for the Mechanical Design Methods in Robotics course.
+This project was developed as a collaborative group project for the Mechanical Design Methods course in Robotics Engineering Master's Degree.
 <div align="center">
    <a href="https://github.com/Stef504"><img src="https://github.com/Stef504.png" width="60px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
